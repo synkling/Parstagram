@@ -27,7 +27,7 @@
         android:layout_marginRight="20dp"
         android:layout_marginBottom="25dp"
         android:ems="10"
-        android:hint="@string/captionHint"
+        android:text="@string/captionHint"
         android:inputType="text" />
 
     <Button
